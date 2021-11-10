@@ -1,0 +1,4 @@
+
+.icon-sort:before { content: '\f0dc'; } /* '' */
+.icon-sort-down:before { content: '\f0dd'; } /* '' */
+.icon-sort-up:before { content: '\f0de'; } /* '' */

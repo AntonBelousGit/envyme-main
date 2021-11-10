@@ -1,0 +1,73 @@
+
+/*------ Media Queries ------*/
+/* .col-xl 1200  <*/
+
+/* 1200-1920  lg */
+
+/*@media screen and (max-width: 1100px) {
+	.section-title-page:after {
+		display: none;
+	}
+
+	.block-title-page:after {
+		width: 100%;
+	}
+}*/
+
+@media screen and (max-width: 992px) {
+}
+
+
+/* 768-992  md */
+
+@media screen and (max-width: 965px) {
+
+}
+
+@media screen and (max-width: 900px) {
+	
+
+}
+
+@media screen and (max-width: 841px) { 
+
+}
+
+/* 576-767  sm */
+@media screen and (max-width: 767px) {
+
+}
+
+@media screen and (max-width: 736px) {
+
+}
+
+@media screen and (max-width: 710px) { 
+
+}
+
+@media screen and (max-width: 679px) {
+
+}
+
+@media screen and (max-width: 620px) {
+
+}
+
+/* 320-576 .col */
+@media screen and (max-width: 576px) {
+	
+}
+
+
+@media screen and (max-width: 500px) {
+	
+}
+
+@media screen and (max-width: 450px) {
+	
+}
+
+@media screen and (max-width: 400px) {
+
+}

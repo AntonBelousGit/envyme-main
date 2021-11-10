@@ -1,0 +1,15 @@
+.sort {
+    width: 20px;
+    height: 20px;
+    outline: none;
+    border: none;
+    background-color: transparent;
+    background: url(/img/sort-arrows.png);
+    padding: 0;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.sort:focus {
+    outline: none;
+}
